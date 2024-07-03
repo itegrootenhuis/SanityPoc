@@ -1,0 +1,4 @@
+[submodule "day-one-with-sanity-nextjs"]
+	url = https://github.com/itegrootenhuis/SanityPoc
+[submodule "sanitypoc"]
+	url = https://github.com/itegrootenhuis/SanityPoc
